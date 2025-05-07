@@ -7,7 +7,7 @@
 - 🍃 Co-creator of HydroLeaf – an Indoor NFT Hydroponic Growing System.
 
 ### Contact
-[![linkedin](./assets/linkedin_logo.png): Franco Riggio](https://www.linkedin.com/in/franco-andres-riggio/)
+[![linkedin](https://i.sstatic.net/gVE0j.png): Franco Riggio](https://www.linkedin.com/in/franco-andres-riggio/)
 
 ✉: friggio.87@gmail.com
 
